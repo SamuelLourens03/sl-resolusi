@@ -1,6 +1,8 @@
 RENCANA OLAHRAGA SAMUEL LOURENS
 
 - Bangun Pagi
+  * cuci muka
+  * sikat gigi
 - Pemanasan
 - Olahraga
 - Selesai
